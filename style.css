@@ -1,0 +1,14 @@
+#submit_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: lightblue;
+}
+#sorting_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: lightblue;
+    display: none;  
+}
+input{
+    margin: 10px;
+}
